@@ -1,0 +1,59 @@
+body {
+    background-image: url("https://i.ibb.co/Q8S3jm2/Fh-Dt-G9-Mcp060yclj-KJbj7c-RDxb-g.png");
+    font: bold 110% monospace;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #c044ff;
+}
+
+.centrado {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -250px;
+    margin-left: -200px;
+    background: black;
+    width: 400px;
+    height: 500px;
+}
+
+center {
+    margin: 16px 0;
+}
+
+h3 {
+    color: #df9eff;
+}
+
+button {
+    background-color: snow;
+    color: black;
+    font: bold 125% monospace;
+    border: 2px solid purple;
+}
+
+button:hover {
+    background-color: #ebd1ff;
+}
+
+.button {
+    background-color: snow;
+    color: black;
+    font: bold 125% monospace;
+    border: 2px solid purple;
+}
+
+.button:hover {
+    background-color: #ebd1ff;
+}
+
+p {
+    color: #f3e8ff;
+    font: bold 110% monospace;
+}
